@@ -1,0 +1,25 @@
+				ski project history
+
+6.8: 2014-05-20
+  Fix a minor bug revealed by pychecker.
+
+6.6: 2010-10-20
+  License changed to BSD.
+  Documentation fixes.
+
+6.5: 2004-01-12
+  6.4 introduced a bug into the ? and ! commands, now fixed.
+
+6.4: 2004-01-11
+  Game commands now accept numeric repeat prefixes.
+
+6.3: 2004-01-03
+  Fix bug introduced to teleport command in 6.2.
+
+6.2: 2003-12-31
+  Emit reset on keyboard interrupt, just in case user bails out in the
+  middle af a row refresh.  Fix bug in ! command interpretation.
+  Terrain key is now colorized.
+
+6.1: 2003-12-30
+  Python reimplementation of the original C game.
